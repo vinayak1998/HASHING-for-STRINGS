@@ -6,6 +6,6 @@ It was a fun assignment where the task was to find valid anagrams of a given inp
 
 The details of the assignment are given in the README.pdf file, please go through it.
 
-Course - COL106(Data Structures and Algorithms)
-Fall-2017
-Assignment #4
+* Course - COL106(Data Structures and Algorithms)
+* Fall-2017
+* Assignment #4
